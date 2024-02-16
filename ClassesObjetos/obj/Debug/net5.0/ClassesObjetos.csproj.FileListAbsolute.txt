@@ -1,0 +1,16 @@
+C:\Projects\ClassesObjetos\ClassesObjetos\obj\Debug\net5.0\ClassesObjetos.csproj.AssemblyReference.cache
+C:\Projects\ClassesObjetos\ClassesObjetos\obj\Debug\net5.0\ClassesObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ClassesObjetos\ClassesObjetos\obj\Debug\net5.0\ClassesObjetos.AssemblyInfoInputs.cache
+C:\Projects\ClassesObjetos\ClassesObjetos\obj\Debug\net5.0\ClassesObjetos.AssemblyInfo.cs
+C:\Projects\ClassesObjetos\ClassesObjetos\obj\Debug\net5.0\ClassesObjetos.csproj.CoreCompileInputs.cache
+C:\Projects\ClassesObjetos\ClassesObjetos\bin\Debug\net5.0\ClassesObjetos.exe
+C:\Projects\ClassesObjetos\ClassesObjetos\bin\Debug\net5.0\ClassesObjetos.deps.json
+C:\Projects\ClassesObjetos\ClassesObjetos\bin\Debug\net5.0\ClassesObjetos.runtimeconfig.json
+C:\Projects\ClassesObjetos\ClassesObjetos\bin\Debug\net5.0\ClassesObjetos.runtimeconfig.dev.json
+C:\Projects\ClassesObjetos\ClassesObjetos\bin\Debug\net5.0\ClassesObjetos.dll
+C:\Projects\ClassesObjetos\ClassesObjetos\bin\Debug\net5.0\ref\ClassesObjetos.dll
+C:\Projects\ClassesObjetos\ClassesObjetos\bin\Debug\net5.0\ClassesObjetos.pdb
+C:\Projects\ClassesObjetos\ClassesObjetos\obj\Debug\net5.0\ClassesObjetos.dll
+C:\Projects\ClassesObjetos\ClassesObjetos\obj\Debug\net5.0\ref\ClassesObjetos.dll
+C:\Projects\ClassesObjetos\ClassesObjetos\obj\Debug\net5.0\ClassesObjetos.pdb
+C:\Projects\ClassesObjetos\ClassesObjetos\obj\Debug\net5.0\ClassesObjetos.genruntimeconfig.cache
